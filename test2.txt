@@ -1,0 +1,4 @@
+Support ticket for payment failure
+Ticket ID: 1002
+Status: In progress
+Reason: Due to some network issues the payment was not successfull.
