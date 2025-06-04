@@ -29,3 +29,6 @@ Create a baseline of file hashes.
 Identify changes to monitored files.
 Report missing files correctly.
 This tool can be extended to monitor more files or entire directories. It offers a basic but effective way to ensure that important files remain unchanged, making it useful in security-sensitive environments.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/9910115f-3155-42ac-8621-4ed6521a0505)
