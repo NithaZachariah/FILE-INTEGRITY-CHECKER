@@ -1,17 +1,5 @@
 # FILE-INTEGRITY-CHECKER
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*:NITHA ZACHARIAH
-
-*INTERN ID*: CT04DF211
-
-*DOMAIN*: CYBER SECURITY AND ETHICAL HACKING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 *DESCRIPTION*:???? File Integrity Checker in Python
 I created a basic File Integrity Monitoring Tool during my internship. Its function is to scan for modifications done on certain files based on comparing their hash values with time.
 ???? How It Works:
